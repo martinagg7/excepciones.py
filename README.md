@@ -1,6 +1,6 @@
 # excepciones.py
 ## Datos
-  nombre_usuario:martinagg7 /link_repo:
+  nombre_usuario:martinagg7 /link_repo:https://github.com/martinagg7/excepciones.py.git
   
 ## Localización ficheros
   <em>Datos</em>
